@@ -10,7 +10,7 @@
 
 Тема: Знакомство
 
-* Introductory Speech by [Михон](/diversiya)
+* Introductory Speech by [Михон](https://github.com/diversiya)
 
 ## Информация о 
 
