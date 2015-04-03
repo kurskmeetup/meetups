@@ -8,7 +8,7 @@
 
 ## 4 апреля 2015
 
-* [Василий Половнев](https://github.com/vast) — &laquo;[Как пользоваться успехом у женщин с помощью CSS](https://github.com/kurskmeetup/keynote-success-with-css)&raquo;
+* [Василий Половнев](https://github.com/vast) — &laquo;[Как пользоваться успехом у женщин с помощью CSS](https://kurskmeetup.github.io/keynote-success-with-css)&raquo;
 
 ## 21 марта 2015
 
