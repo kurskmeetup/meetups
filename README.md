@@ -9,6 +9,7 @@
 ## 4 апреля 2015
 
 * [Василий Половнев](https://github.com/vast) — &laquo;[Как пользоваться успехом у женщин с помощью CSS](https://kurskmeetup.github.io/keynote-success-with-css)&raquo;
+* [Борис Окунский](https://github.com/inca) — &laquo;[8 причин, чтобы любить Browserify](https://kurskmeetup.github.io/keynote-browserify)&raquo;
 
 ## 21 марта 2015
 
