@@ -6,6 +6,10 @@
 
 Записаться на выступление просто: форкаете репозиторий, вписываете тему выступления и присылаете пулл-реквест.
 
+## 18 апреля 2015
+
+* [Василий Половнев](https://github.com/vast) — &laquo;[Успех, CSS и женщины](http://kurskmeetup.github.io/keynote-success-with-css/part2.html)&raquo;
+
 ## 4 апреля 2015
 
 * [Василий Половнев](https://github.com/vast) — &laquo;[Как пользоваться успехом у женщин с помощью CSS](https://kurskmeetup.github.io/keynote-success-with-css)&raquo;
