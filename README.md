@@ -8,7 +8,7 @@
 
 ## 16 мая 2015
 
-* [Павел Конников](https://github.com/pakon) — &laquo;Эстимейты такие эстимейты&raquo;
+* [Павел Конников](https://github.com/pakon) — &laquo;[Эстимейты такие эстимейты](https://docs.google.com/presentation/d/1QVVE2ofs9FISixWOXFtKmUJua-Re-e0acxrAQ28vnXs/edit)&raquo;
 * [Василий Половнев](https://github.com/vast) — &laquo;[Объясни это](http://kurskmeetup.github.io/explain-this-keynote/)&raquo;
 
 
