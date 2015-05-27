@@ -6,6 +6,10 @@
 
 Записаться на выступление просто: форкаете репозиторий, вписываете тему выступления и присылаете пулл-реквест.
 
+## 30 мая 2015
+
+* [Дмитрий Ивашко](https://github.com/dmitriiivashko) и [Павел Конников](https://github.com/pakon) — &laquo;[Об архитектуре]&raquo;
+
 ## 16 мая 2015
 
 * [Павел Конников](https://github.com/pakon) — &laquo;[Эстимейты такие эстимейты](https://docs.google.com/presentation/d/1QVVE2ofs9FISixWOXFtKmUJua-Re-e0acxrAQ28vnXs/edit)&raquo;
