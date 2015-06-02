@@ -8,7 +8,7 @@
 
 ## 30 мая 2015
 
-* [Дмитрий Ивашко](https://github.com/dmitriiivashko) и [Павел Конников](https://github.com/pakon) — &laquo;[Об архитектуре]&raquo;
+* [Дмитрий Ивашко](https://github.com/dmitriiivashko) и [Павел Конников](https://github.com/pakon) — &laquo;[Об архитектуре](http://www.youtube.com/watch?v=e2BSKtdNFJY)&raquo;
 
 ## 16 мая 2015
 
