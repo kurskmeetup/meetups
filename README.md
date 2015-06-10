@@ -6,6 +6,10 @@
 
 Записаться на выступление просто: форкаете репозиторий, вписываете тему выступления и присылаете пулл-реквест.
 
+## 13 июня 2015
+
+* [Сергей Головин](https://github.com/daynin) — &laquo;ClojureScript в современной веб-разработке&raquo;
+
 ## 30 мая 2015
 
 * [Дмитрий Ивашко](https://github.com/dmitriiivashko) и [Павел Конников](https://github.com/pakon) — &laquo;[Об архитектуре](http://www.youtube.com/watch?v=e2BSKtdNFJY)&raquo;
