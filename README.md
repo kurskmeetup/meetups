@@ -8,7 +8,7 @@
 
 ## 13 июня 2015
 
-* [Андрей Бутов](https://github.com/abtv) — &laquo;[Функциональное программирование и Clojure]&raquo;
+* [Андрей Бутов](https://github.com/abtv) — &laquo;Функциональное программирование и Clojure&raquo;
 
 ## 30 мая 2015
 
