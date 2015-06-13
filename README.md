@@ -9,7 +9,7 @@
 ## 13 июня 2015
 
 * [Андрей Бутов](https://github.com/abtv) — &laquo;Функциональное программирование и Clojure&raquo;
-* [Сергей Головин](https://github.com/daynin) — [&laquo;ClojureScript в современной веб-разработке&raquo](http://daynin.github.io/clojurescript-presentation/#/);
+* [Сергей Головин](https://github.com/daynin) — &laquo;[ClojureScript в современной веб-разработке](http://daynin.github.io/clojurescript-presentation/#/)&raquo;
 
 ## 30 мая 2015
 
