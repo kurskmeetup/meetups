@@ -10,7 +10,7 @@
 
 * [Владимир Гончаров](https://github.com/cleverfox) — &laquo;Функциональное программирование на Erlang. Erlang code session (мы напишем что-нибудь вместе).&raquo;
 
-*## 13 июня 2015
+## 13 июня 2015
 
 * [Андрей Бутов](https://github.com/abtv) — &laquo;Функциональное программирование и Clojure&raquo;
 * [Сергей Головин](https://github.com/daynin) — &laquo;ClojureScript в современной веб-разработке&raquo;
