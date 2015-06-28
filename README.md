@@ -13,6 +13,8 @@
 ## 27 июня 2015
 
 * [Владимир Гончаров](https://github.com/cleverfox) — &laquo;Функциональное программирование на Erlang. Erlang code session (мы напишем что-нибудь вместе).&raquo;
+  [Слайды](https://github.com/cleverfox/erlang_presentation),
+  [Исходник получившегося проекта](https://github.com/kurskmeetup/erlang_demo_chat)
 * [Михон Семехин](https://github.com/diversiya) — &laquo;Как и для чего писать не только код&raquo;
 
 ## 13 июня 2015
