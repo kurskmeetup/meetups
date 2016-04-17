@@ -17,7 +17,7 @@ Kursk Meetup — это сообщество программистов, диз�
 
 Собираемся в «[Творческом заводе 5.40](https://vk.com/zavod5sorok)».
 
-* Андрей Бутов — «Full-stack Clojure in production»
+* Андрей Бутов — «[Full-stack Clojure in production](http://abtv.github.io/full-stack-clojure-in-production/full-stack-clojure.html)» 
 * Сергей Головин — «Clojure для веганов, Tiny-Lisp для мужчин»
 
 ### 2 апреля 2016
